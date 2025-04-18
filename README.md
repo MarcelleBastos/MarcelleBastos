@@ -4,7 +4,7 @@
 
 Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro. Concluí o ensino médio no CNSP (Colégio Nossa Senhora da Penha). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisuam.
 <p align="left"
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/MarcelleBastos?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -17,6 +17,13 @@ Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/MarcelleBastos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
+    <a href="https://github.com/MarcelleBastos?tab=followers">
+        <img
+            alt="LinkedIn"
+            title="Me siga no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?logoSource=linkedin.svg"
+            />
     </a>
 </p>
 
