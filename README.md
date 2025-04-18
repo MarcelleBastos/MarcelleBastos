@@ -22,8 +22,8 @@ Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro
         <img
             alt="LinkedIn"
             title="Me siga no LinkedIn"
-            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcellebastosbr@gmail.com"
-            />
+            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
     </a>
 </p>
 
@@ -93,7 +93,6 @@ Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarcelleBastos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -102,3 +101,6 @@ Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro
   />
 
 </p>
+
+## 🐍 Snake Game
+![snake gif](https://github.com/MarcelleBastos/MarcelleBastos/blob/output/github-snake-dark.svg?palette=github-dark)
