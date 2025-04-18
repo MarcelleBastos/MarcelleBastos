@@ -3,29 +3,9 @@
 **`Desenvolvedora Front-End`**
 
 Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro. Concluí o ensino médio no CNSP (Colégio Nossa Senhora da Penha). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisuam.
-<p align="left"
-    <a href="https://github.com/MarcelleBastos?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MarcelleBastos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MarcelleBastos?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MarcelleBastos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/marcelle-dobroski-a235591bb/">
-        <img
-            alt="LinkedIn"
-            title="Me siga no LinkedIn"
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-fesantos/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.fesantos@gmail.com)
 
 ---
 
