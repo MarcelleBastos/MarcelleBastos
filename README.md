@@ -1,9 +1,8 @@
 # 👩‍💻 Marcelle Dobroski
-**Seja bem-vindo ao meu perfil!**
 
 **`Desenvolvedora Front-End`**
 
-
+**Seja bem-vindo ao meu perfil!**
 Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro. Concluí o ensino médio no CNSP (Colégio Nossa Senhora da Penha). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisuam.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelle-dobroski-a235591bb/)
