@@ -18,11 +18,11 @@ Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro
             src="https://custom-icon-badges.demolab.com/github/followers/MarcelleBastos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/MarcelleBastos?tab=followers">
+    <a href="https://www.linkedin.com/in/marcelle-dobroski-a235591bb/">
         <img
             alt="LinkedIn"
             title="Me siga no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?logoSource=linkedin.svg"
+            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcellebastosbr@gmail.com"
             />
     </a>
 </p>
