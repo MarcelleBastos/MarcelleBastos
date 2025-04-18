@@ -1,4 +1,4 @@
-# 👩‍💻 Marcelle Dobroski
+# 👾 Marcelle Dobroski
 
 **`Desenvolvedora Front-End`**
 
