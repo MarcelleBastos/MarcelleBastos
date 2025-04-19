@@ -6,7 +6,7 @@
 
 Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro. Concluí o ensino médio no CNSP (Colégio Nossa Senhora da Penha). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisuam. Profissional apaixonada por tecnologia, com formação em Operação de Suporte Técnico em TI em Firjan Senai.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelle-dobroski-a235591bb/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelle-dobroski/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcellebastosbr@gmail.com)
 
 ---
