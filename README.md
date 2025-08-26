@@ -68,7 +68,7 @@ Profissional apaixonada por tecnologia, com formação de Operador de Suporte T�
 
 ### 📊 Estatísticas
 
-| ![Marcelle GitHub Stats](https://github-README-stats.vercel.app/api?username=MarcelleBastos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelleBastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Marcelle GitHub Stats](https://github-README-stats.vercel.app/api?username=MarcelleBastos&show_icons=true&theme=tokyonight&include_allcommits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelleBastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
 ## 🐍 Snake Game
 ![snake gif](https://github.com/MarcelleBastos/MarcelleBastos/blob/main/github-snake-dark.svg)
