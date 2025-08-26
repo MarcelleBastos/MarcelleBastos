@@ -1,11 +1,11 @@
 # 👾 Marcelle Dobroski
 
-**`Desenvolvedora Front-End`**
+**`Suporte Técnico/Desenvolvimento Web`**
 
 **Seja bem-vindo ao meu perfil!**
 
 Me chamo Marcelle Martins Dobroski Bastos, tenho 19 anos e sou do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unisuam. 
-Profissional apaixonada por tecnologia, com formação em Operação de Suporte Técnico em TI em Firjan Senai.
+Profissional apaixonada por tecnologia, com formação de Operador de Suporte Técnico em TI.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelle-dobroski/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcellebastosbr@gmail.com)
@@ -68,7 +68,7 @@ Profissional apaixonada por tecnologia, com formação em Operação de Suporte 
 
 ### 📊 Estatísticas
 
-| ![Marcelle GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelleBastos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelleBastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Marcelle GitHub Stats](https://github-README-stats.vercel.app/api?username=MarcelleBastos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelleBastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
 ## 🐍 Snake Game
 ![snake gif](https://github.com/MarcelleBastos/MarcelleBastos/blob/main/github-snake-dark.svg)
